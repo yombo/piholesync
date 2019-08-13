@@ -39,7 +39,7 @@ To use this list, simply replace the file /etc/pihole/adlists.list with this one
 ## Primary pihole
 1. Login to pihole
 1. Download file:
-   * type "wget "
+   * type "wget https://raw.githubusercontent.com/yombo/piholesync/master/piholesync.sh"
 1. edit the script: type "pico piholesync.sh"
 1. edit PIHOLE2 and HAUSER to match your SECONDARY pihole settings
 1. save and exit
